@@ -63,4 +63,3 @@ echo "\nMenghapus hewan dari daftar:\n";
 $animal->destroy(2);
 $animal->index();
 
-?>
